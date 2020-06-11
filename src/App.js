@@ -24,7 +24,7 @@ class App extends React.Component{
       params: {
         part: "snippet",
         maxResults: 5,
-        key: 'AIzaSyDWBTraZWdmD1m-c2tVJln9LsRHdwMKTR0',
+        key: 'YouTube_API_key',
         q: searchTerm,
       }
     });
